@@ -1,18 +1,12 @@
 # Platform-centric DevOps Practices
 
----
-
 ## Communities of Practice
-
----
 
 When adopting the DevOps culture, it is crucial to establish communities of practice. Using a model similiar to [open-source software (OSS)](https://en.wikipedia.org/wiki/Open-source_software), central, or platform-based teams are setup to manage content and collaborate with developers, analysts, and other contributors from external teams. By doing so, the business is able to take advantage of lessons learned during the development of a work product and leverage those assets across the company, saving time and resources, while minimizing service degradation and outages.
 
 Sometimes two platform teams are created to work in tandem, with the idea that they work as a check and balance for each other, ensuring a playful competitive nature that inspires and empowers innovation, and helps prevent the teams from becoming complacent or falling back into learned habits. Typically they are the "platform" team and the "center of excellence" team who share the same product leadership.
 
 ## Team Autonomy
-
----
 
 Individual and team autonomy is the cornerstone of highly productive and qualitative product delivery teams. Autonomous teams are synomous with self-organizing, self-managing, or empowered teams.
 
@@ -30,11 +24,7 @@ Accordingly, autonomous teams can flounder if not proactively supported by leade
 
 References: [Autonomous agile teams: challenges and future directions for research](https://dl.acm.org/doi/10.1145/3234152.3234182)
 
----
-
 ## Coaching and Organizational Support
-
----
 
 Leadership and management must provide organizational context, otherwise the individuals will struggle to come up with the shared-goal, and when they do complete work, they do not get the sense of accomplishment they otherwise would have.
 
@@ -46,11 +36,7 @@ Coaching is the act of inspiring others to come up with solutions and pinpointin
 
 Lastly, informal rules or norms become a problem when regulating team behavior. Typically, a working agreement that all individuals and leadership agree to is required to prevent the team from going off in directions that are not desirable. An example [Working Agreement](Working-Agreement.md) can be found in this repository.
 
----
-
 ## Continuous Integration (CI)
-
----
 
 Continuous integration is the process of building and/or testing code each and every time someone makes changes to the `main` branch of source control management (SCM), such as `Git` or `Subversion` (SVN). The `main` branch should be considered the `production` branch and should be able to deploy services at any given time.
 
