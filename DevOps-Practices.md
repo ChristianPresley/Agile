@@ -1,5 +1,14 @@
 # Platform-centric DevOps Practices
 
+---
+
+# Table of contents
+
+  - [Communities of Practice](#communities-of-practice)
+  - [Team Autonomy](#team-autonomy)
+  - [Coaching and Organizational Support](#coaching-and-organizational-support)
+  - [Continuous Integration (CI)](#continuous-integration-ci)
+
 ## Communities of Practice
 
 When adopting the DevOps culture, it is crucial to establish communities of practice. Using a model similiar to [open-source software (OSS)](https://en.wikipedia.org/wiki/Open-source_software), central, or platform-based teams are setup to manage content and collaborate with developers, analysts, and other contributors from external teams. By doing so, the business is able to take advantage of lessons learned during the development of a work product and leverage those assets across the company, saving time and resources, while minimizing service degradation and outages.
