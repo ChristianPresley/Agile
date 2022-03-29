@@ -61,7 +61,10 @@ The `Pull Request` also allows you to make direct comments on changes that have 
 The most widely adopted branching strategy is the [Trunk Based Development](https://trunkbaseddevelopment.com/) approach.
 
 ```
-A source-control branching model, where developers collaborate on code in a single branch called ‘trunk’ *, resist any pressure to create other long-lived development branches by employing documented techniques. They therefore avoid merge hell, do not break the build, and live happily ever after.
+A source-control branching model, where developers collaborate on code in a single branch
+called ‘trunk’ *, resist any pressure to create other long-lived development branches by
+employing documented techniques. They therefore avoid merge hell, do not break the build,
+and live happily ever after.
 
 * main or master, in Git nomenclature
 ```
